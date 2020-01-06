@@ -1,0 +1,5 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi, i am not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I am feeling weak and warm
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.

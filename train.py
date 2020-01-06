@@ -15,5 +15,6 @@ for file in os.listdir('data'):
         convData = open('data/' + file).readlines()
         english_bot.train(convData)
         print("Training completed for "+file)
+
     
 
